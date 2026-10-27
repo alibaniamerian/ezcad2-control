@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+logs/
+runtime/
+.env
+.env.*
+*.log
+*.ezd
+*.EZD
+*.dll
+*.exe
+.pytest_cache/
